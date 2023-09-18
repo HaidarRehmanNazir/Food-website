@@ -21,3 +21,8 @@ output
 <img width="960" alt="Screenshot 2023-09-18 162643" src="https://github.com/HaidarRehmanNazir/Food-website/assets/105855367/43c59fcd-adbe-48e9-848f-ab06f9bb0dfd">
 
 
+
+https://github.com/HaidarRehmanNazir/Food-website/assets/105855367/dd78d045-7fce-4373-a783-7e4ded1d60c6
+
+
+
